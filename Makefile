@@ -1,4 +1,5 @@
-client:
-	cd client & npm start
-server:
-	cd server & npm start
+start_client:
+	cd ./client && npm start
+
+start_server:
+	cd ./server && npm start
