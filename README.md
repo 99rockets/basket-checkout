@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# Basket Checkout v3 (React / Redux)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Create a basic user interface for a (much) simplified shopping basket / checkout. A small number of web services is supplied as a self-contained Node.js based server that can be run locally. The user interface displays data from and interacts with the web service endpoints of the supplied local Node.js server.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm lint`
+
+Statically analyzes code to quickly find problems
 
 ### `npm start`
 
